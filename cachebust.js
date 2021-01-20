@@ -6,3 +6,6 @@ eval(b)
 
 let c = "foo"
 eval(c)
+
+let d = "foo"
+eval(d)
